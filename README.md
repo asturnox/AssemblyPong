@@ -1,5 +1,7 @@
 # AssemblyPong
-A simple, bootable, 'extended' version of Pong, featuring elements of randomness, multiple pong balls, and a more involved scoring system. Developed in x86 AT&T Assembly.
+A bootable 'extended' version of Pong, featuring elements of randomness, multiple pong balls, and a more involved scoring system. Developed in x86 AT&T Assembly.
+
+Done as a bonus project for the TU Delft's CSE1400 Computer Organisation course.
 
 ## How to play
 To run, follow the instructions for the excellent [gamelib-x64](https://github.com/thegeman/gamelib-x64) bootable game library, using the `game.s` file in this repository.
